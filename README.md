@@ -1,4 +1,4 @@
-![Your Name's Profile Picture](https://raw.githubusercontent.com/a0w3b/a0w3b/main/assets/anssi-avatar.png)
+![Profile Picture](https://github.com/a0w3b/a0w3b/blob/main/assets/anssi-avatar.png)
 # Hi there 👋
 
 I'm an AI and Data professional with a strong background in both academics and industry. As the CTO of RNDLabs Oy, I focus on building scalable, AI-driven solutions. My passion lies in combining a deep understanding of Data Science and Machine Learning with hands-on experience in software development and ICT.
