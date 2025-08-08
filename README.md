@@ -1,9 +1,8 @@
 <!-- <img src="https://raw.githubusercontent.com/a0w3b/a0w3b/main/assets/anssi-avatar3.png" alt="Anssi Ovaska's Avatar" height="200px"> -->
 # Hi there 👋
 
-I'm an AI and Data professional with a strong background in both academics and industry. As the CTO of RNDLabs Oy, I focus on building scalable, AI-driven solutions. My passion lies in combining a deep understanding of Data Science and Machine Learning with hands-on experience in software development and ICT.
+I'm an AI and Data professional with a strong background in both academics and industry. As the CTO of RNDLabs Oy, I specialize in building scalable, production-ready solutions using modern **MLOps⚙️** principles. I'm passionate about combining a deep understanding of advanced topics like **Generative AI✨**,**Agentic AI🤖**, and **Reinforcement Learning🧠** with hands-on experience in foundational architectures like **Transformers⚡️**. My work is a dynamic blend of innovative AI, robust cloud architecture, and high-performance computing, constantly evolving as I expand my skills.
 
-I'm constantly expanding my skills, and my work is a blend of innovative AI, robust cloud architecture, and high-performance computing.
 
 
 ## 🚀 Core Expertise
